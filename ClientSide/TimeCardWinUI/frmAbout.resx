@@ -112,42 +112,41 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="picIcon.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="picIcon.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="picIcon.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAAHMSURBVFhHpZgLbgMhDEQ5+h5tb9bGREbDMP7QRooidsF+
-        /gIZz/P8jDGuvrbmfd/5xY+P7dfmPKMhuwMwhZHSpQSe+zyci/OkoQoAFW4mfgasmN/72GXw+wNCUUdC
-        7blbl81BCA7TYXBHUCawWm8KOU82L1QCKpdW6xnAvbggKgEIkM31qlAuV3l0BaBKDoVyXNFq5QFbuwCy
-        jO9Yb3CqvKJegTLnOqSPaKPnRzyhoTlAVDULXLmPFWYAkfUGh95RIFN3x4W3ANiSEVCWZOZGWxx1NLfQ
-        O6Mr4gTMAGYyVgAIgSXmocNkQ1jV4rlEJ4CayHHlRFVhwxhH71UfCXOAXcdjBc4QOEdZ3wqBu1XFuFOG
-        VRMrc6DTJzgRq8TDUIQ5wJZHLuS4qr6S7SES4FaI2mxcRgV+hIAzOGtC1U7qXswgNoBu7VaKjw3n09DC
-        KuAk4x7QVVblgstlkC0HlAf+AhDtL1jKDrIAOOsj4g5Qp7vOFo/ngWjRbRJmcrwpbXNwU5E3GTrVVufC
-        6JaFm9bWuDaA4JrW9ULmegaQJ6KOAOWBaVFyD8R+gKdneSasLqouLEpatR6V/hugAszOiNLD3Ii6JXQL
-        8k2882+AXxzbYqpVQD83AAAAAElFTkSuQmCC
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wgAADsIBFShKgAAAAbVJREFUWEe1lwuOgzAQQzk6R+vNun0RRo47CYFVLVlJ5uNxAKnqtu/7e9u2W6Tn
+        9Xo1OnRmpWbfFrRXDDSxGHoOsbjOHvN4pV0acJGEC1Z5QTWJnNUMuOBMFKhuBVUtsc7AEV/CneECPQ76
+        HxlAKMVWUPUQe2RgBm4mOqq+7ikcsSkqYUd3ow996Mj4WU8BvBowQncbozRHuuRb7bk5mirMDHi/kzjD
+        tSZO4ynAGTry7PBe1wDnkCOWRohtXuRUA7xrQINSO3Vank1zYoVOciMDbtDrhdStdC4NQPJQNwPqUVxG
+        oOed3i+UvwVJr2GPkOc9Dkb5CsNvwJkmOWdMcTfhNYonlr8BPztGvcQZKo6wZMD3FfK2zlGPMPwGiHtu
+        dgtH6j0ycFck4U/kyvjXK6BBe3h3uINeODPRGXAj4uqjr+B6I52vHyPtxaeotGAa+YmBfI1J5sjIaYC1
+        MvDkFVQ6FXdWN5AFit/BTIfLwK5GB9byn8wnvorZo3cDnYnOgIJB4isY9UNybgC2nDetCFQgPvsfSO+/
+        DYgSE6uaZA4WW95FVgXvEl1Q6qeBX5ngxvue8e39BxzbYqoYRmPOAAAAAElFTkSuQmCC
 </value>
   </data>
-  <metadata name="lblCopyright.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="lblCopyright.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="lblAppTitle.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="lblAppTitle.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="cmdOK.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="cmdOK.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="label1.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="label1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
 </root>
