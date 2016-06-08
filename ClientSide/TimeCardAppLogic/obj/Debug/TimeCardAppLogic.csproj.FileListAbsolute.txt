@@ -1,0 +1,10 @@
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\SqlServerCloud\TimeCardAppLogic\obj\Debug\TimeCardAppLogic.csprojResolveAssemblyReference.cache
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\SqlServerCloud\TimeCardAppLogic\bin\Debug\TimeCardAppLogic.dll
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\SqlServerCloud\TimeCardAppLogic\bin\Debug\TimeCardAppLogic.pdb
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\SqlServerCloud\TimeCardAppLogic\obj\Debug\TimeCardAppLogic.dll
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\SqlServerCloud\TimeCardAppLogic\obj\Debug\TimeCardAppLogic.pdb
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\Solution\SqlServerCloud\TimeCardAppLogic\bin\Debug\TimeCardAppLogic.dll
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\Solution\SqlServerCloud\TimeCardAppLogic\bin\Debug\TimeCardAppLogic.pdb
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\Solution\SqlServerCloud\TimeCardAppLogic\obj\Debug\TimeCardAppLogic.csprojResolveAssemblyReference.cache
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\Solution\SqlServerCloud\TimeCardAppLogic\obj\Debug\TimeCardAppLogic.dll
+C:\Users\SUNITA\Documents\Visual Studio 2013\Projects\CIT450\Lab45\Rahul-clone\BootCamp\CloudServer\Solution\SqlServerCloud\TimeCardAppLogic\obj\Debug\TimeCardAppLogic.pdb
